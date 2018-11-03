@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Client</string>
+
+    <string name="remote_call_failed">远程调用失败</string>
+
+    <string name="remote_service_disconnected">失去远程调用链接</string>
+
+    <string name="remote_service_connected">远程调用链接</string>
+
+
+</resources>
